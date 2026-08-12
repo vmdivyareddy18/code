@@ -53,8 +53,7 @@ class AssignmentDemo {
         x -= 3;
         System.out.println(x);
 
-        x *= 2;
-        System.out.println(x);
+        
 
       
 }
