@@ -50,8 +50,6 @@ class AssignmentDemo {
         x += 5;
         System.out.println(x);
 
-        x -= 3;
-        System.out.println(x);
 
         
 
