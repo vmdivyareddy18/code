@@ -56,8 +56,5 @@ class AssignmentDemo {
         x *= 2;
         System.out.println(x);
 
-        x /= 4;
-        System.out.println(x);
-
-    }
+      
 }
