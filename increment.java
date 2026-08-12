@@ -41,11 +41,3 @@ class AssignmentDemo {
         System.out.println(x);
     }
 }
-
-class AssignmentDemo {
-    public static void main(String[] args) {
-
-        int x = 10;
-
-      
-}
