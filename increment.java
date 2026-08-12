@@ -59,7 +59,5 @@ class AssignmentDemo {
         x /= 4;
         System.out.println(x);
 
-        x %= 3;
-        System.out.println(x);
     }
 }
