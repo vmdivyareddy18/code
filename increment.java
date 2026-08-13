@@ -63,3 +63,12 @@ class AssignmentDemo {
         System.out.println(x);
     }
 }
+int x = 10;
+
+if (x > 5) {
+    System.out.println("Java");
+} else {
+    System.out.println("Python");
+}
+
+System.out.println("Done");
