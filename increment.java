@@ -238,5 +238,11 @@ class AssignmentDemo {
         System.out.println("Adult");
     }else
     {
-    System.out.println("Minor");
+        System.out.println("Minor");
+    }
+    int age = 20;
+
+    if(age>=18)
+    {
+    System.out.println("Adult");
 }
