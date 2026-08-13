@@ -61,23 +61,39 @@ class AssignmentDemo {
 
         x %= 3;
         System.out.println(x);
+    }}
+
+    int x = 10;
+
+    if(x>5)
+    {
+        System.out.println("Java");
+    }else
+    {
+        System.out.println("Python");
     }
+
+    System.out.println("Done");
+    int x = 10;
+
+    if(x>5)
+    {
+        System.out.println("Java");
+    }else
+    {
+        System.out.println("Python");
+    }
+
+    System.out.println("Done");
+    int number = 10;
+
+    if(number>5)
+    {
+        System.out.println("A");
+    }
+
+    if(number>8)
+    {
+    System.out.println("B");
 }
-int x = 10;
-
-if (x > 5) {
-    System.out.println("Java");
-} else {
-    System.out.println("Python");
-}
-
-System.out.println("Done");
-int x = 10;
-
-if (x > 5) {
-    System.out.println("Java");
-} else {
-    System.out.println("Python");
-}
-
-System.out.println("Done");
+3
