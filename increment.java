@@ -106,5 +106,16 @@ class AssignmentDemo {
     if(number>8)
     {
         System.out.println("B");
-}System.out.println("End")
+    }System.out.println("End");
+    int age = 16;
+    boolean hasID = true;
+
+    if(age>=18)
+    {
+        if (hasID) {
+            System.out.println("Entry Allowed");
+        }
+}
+
+System.out.println("End")
 ;
