@@ -72,3 +72,12 @@ if (x > 5) {
 }
 
 System.out.println("Done");
+int x = 10;
+
+if (x > 5) {
+    System.out.println("Java");
+} else {
+    System.out.println("Python");
+}
+
+System.out.println("Done");
