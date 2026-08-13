@@ -187,5 +187,14 @@ class AssignmentDemo {
         System.out.println("Pass");
     }else if(marks>=90)
     {
-    System.out.println("Grade A");
+        System.out.println("Grade A");
+    }
+    int number = 7;
+
+    if(number%2==0)
+    {
+        System.out.println("Even");
+    }else
+    {
+    System.out.println("Odd");
 }
