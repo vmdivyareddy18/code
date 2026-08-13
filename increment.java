@@ -94,6 +94,16 @@ class AssignmentDemo {
 
     if(number>8)
     {
+        System.out.println("B");
+    }3
+    int number = 10;
+
+    if(number>5)
+    {
+        System.out.println("A");
+    }
+
+    if(number>8)
+    {
     System.out.println("B");
 }
-3
