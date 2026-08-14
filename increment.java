@@ -253,7 +253,6 @@ class AssignmentDemo {
         System.out.println("Adult");
     }if(age>=18)
     {
-    if (hasID) {
-        System.out.println("Entry Allowed");
+
     }
 }
