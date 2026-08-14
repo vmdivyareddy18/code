@@ -212,11 +212,5 @@ class AssignmentDemo {
     if(marks>=90)
     {
         System.out.println("A");
-    }else if(marks>=75)
-    {
-        System.out.println("B");
-    }else
-    {
-        System.out.println("C");
-}
-int marks = 80;
+}else if(marks>=75
+)
