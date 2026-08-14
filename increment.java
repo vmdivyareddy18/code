@@ -179,14 +179,5 @@ class AssignmentDemo {
     }else if(marks>=90)
     {
         System.out.println("Grade A");
-    }
-    int marks = 95;
-
-    if(marks>=35)
-    {
-        System.out.println("Pass");
-    }else if(marks>=90)
-    {
-        System.out.println("Grade A");
 }
-int number = 7;
+i
