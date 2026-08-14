@@ -203,14 +203,6 @@ class AssignmentDemo {
     if(number%2==0)
     {
         System.out.println("Even");
-    }else
-    {
+}else
+{
         System.out.println("Odd");
-    }
-    int marks = 80;
-
-    if(marks>=90)
-    {
-        System.out.println("A");
-}else if(marks>=75
-)
