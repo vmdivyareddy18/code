@@ -231,8 +231,3 @@ class AssignmentDemo {
     {
         System.out.println("C");
 }
-int age = 15;
-
-if(age>=18)
-{
-        System.out.println("Adult");
